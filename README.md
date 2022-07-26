@@ -7,6 +7,7 @@
 <a href="https://instagram.com/alexrrsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexrrsilva" height="30" width="40" /></a>
 </p>
 
+https://ignite-lab.rocketseat.com.br/ticket/blue/alexmaisinfor/share
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?show_icons=true&username=alexmaisinfor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
